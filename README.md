@@ -1,16 +1,12 @@
-### Hi there 👋
+WELCOME to the GitHub profile of 
+    OFILI ONYINYE :
+        • FRONTEND DEVELOPER 
+        • SOFTWARE ENGINEERING STUDENT
+        • ASPIRING FULL-STACK DEVELOPER
+        
+I am currently available for employment. I am looking for Full Time and/or Sideline work.
 
-<!--
-**globaltechgirl/globaltechgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some Technologies I enjoy working with:
+    • HTML
+    • CSS
+    • JavaScript
