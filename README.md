@@ -1,11 +1,9 @@
+<img alt="profileimg" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/144/060/original/Beige_and_Brown_Minimalist_Fashion_Designer_Twitter_Header.png?1726616758">
+
 <h1 align="center">Hi 👋, I'm Ofili Onyinye</h1>
 <h3 align="center">Software Engineer & Frontend Developer</h3>
 
-<img alt="profileimg" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/144/060/original/Beige_and_Brown_Minimalist_Fashion_Designer_Twitter_Header.png?1726616758">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=globaltechgirl&label=Profile%20views&color=0e75b6&style=flat" alt="globaltechgirl" /> </p>
-
-<p align="left"> <a href="https://twitter.com/globaltechgirl" target="blank"><img src="https://img.shields.io/twitter/follow/globaltechgirl?logo=twitter&style=for-the-badge" alt="globaltechgirl" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
