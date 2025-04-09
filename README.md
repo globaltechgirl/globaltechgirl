@@ -1,5 +1,3 @@
-<img alt="profileimg" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/152/008/original/Beige_and_Brown_Minimalist_Fashion_Designer_Twitter_Header_%281%29.png?1733267132">
-
 <h1 align="center">Hi 👋, I'm Ofili Onyinye</h1>
 <h3 align="center">Software Engineer & Web Developer</h3>
 
