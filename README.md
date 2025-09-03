@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ofili Onyinye</h1>
-<h3 align="center">Software Engineer & Web Developer</h3>
+<h3 align="center">Software Engineer & Frontend Developer</h3>
 
 - 📫 How to reach me **globaltechiegirl@gmail.com**
 
