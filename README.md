@@ -1,6 +1,6 @@
 <h4>Hi, I'm Onyinye Ofili</h4>
 
-<h6>🚀 Software Engineer and Frontend Engineer</h6
+<h6>🚀 Software Engineer and Frontend Engineer</h6>
 
 <h6>💼 Frontend Developer @ CWG</h6>
 
