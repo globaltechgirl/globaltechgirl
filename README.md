@@ -6,6 +6,6 @@
 
 <h6>📚 Studied Software Engineering @ Admiralty University of Nigeria</h6>
 
-<h3>🛠️ Tech Stack - HTML, CSS, JavaScript, React.js, TypeScript, Node.js, Next.js, MongoDB, Figma</h3>
+<h6>🛠️ Tech Stack - HTML, CSS, JavaScript, React.js, TypeScript, Node.js, Next.js, MongoDB, Figma</h6>
 
 <h6>📫 Email - globaltechiegirl@gmail.com</h6>
